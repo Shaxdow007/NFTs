@@ -261,7 +261,7 @@ nav ul li a.active {
 }
 .ultimate-content {
   background-image: linear-gradient(rgba(0, 0, 0, 0.349), rgba(0, 0, 0, 0.582)),
-    url("/img/shadowfull.jpg");
+    url("../img/shadowfull.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
